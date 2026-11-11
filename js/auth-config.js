@@ -181,7 +181,19 @@ window.AUTH_CONFIG = {
         "brand": "#0b6f78",
         "brandDark": "#095860",
         "accent": "#6fd6d0"
-      }
+      },
+      "slides": [
+        {
+          "image": "images/slide-1.jpg"
+        },
+        {
+          "image": "images/slide-2.jpg"
+        },
+        {
+          "image": "images/slide-3.jpg"
+        }
+      ],
+      "heroMode": "slide"
     }
   }
 };
