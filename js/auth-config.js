@@ -8,6 +8,7 @@ window.AUTH_CONFIG = {
   "kakao": true,
   "idleMinutes": 30,
   "localBypass": true,
+  "board": true,
   "site": {
     "title": "개발장비 외관평가 Agent",
     "summary": "외관검사 체크시트와 이슈 리스트를 이어 항목별 이슈 빈도 · 위험 점수를 내고, 신규 개발모델용 체크시트와 이슈 발생 우려 포인트 리포트를 만드는 도구입니다.",
